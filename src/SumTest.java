@@ -32,6 +32,7 @@ public class SumTest {
         System.out.println(max1);*/
 
     }
+    //testing git commit
 
     public int addition(int i, int i1) {
         return i+i1;
